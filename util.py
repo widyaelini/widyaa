@@ -235,8 +235,6 @@ class Util:
                     color: white;
                 }
             }
-        </style>
-        <div class="footer"><p>Developed by <a style='display: block; text-align: center;' target="_blank">Rishi More, Gitesh Kambli, Amit Maity, Chirag Maniyath</a></p></div>
-        """
+       
         return footer
         
